@@ -1,10 +1,10 @@
+#ifndef _SIMPLE_FILE_ANALYSER_H_
+#define _SIMPLE_FILE_ANALYSER_H_
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
 #include <sys/stat.h>
-#ifndef _SIMPLE_FILE_ANALYSER_H_
-#define _SIMPLE_FILE_ANALYSER_H_
 #define RED   "\x1B[31m"
 #define GREEN "\x1B[32m"
 #define RESET "\x1B[0m"
