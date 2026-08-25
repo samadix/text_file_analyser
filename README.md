@@ -13,7 +13,9 @@ Then run:
 The program supports three main options:
 
 ./analyse -s <word> <file>
+
 ./analyse -o <word> <file>
+
 ./analyse -l <word> <file>
 
 -s : Search for the word and display matching lines.
