@@ -27,9 +27,13 @@ Options can be combined:
 For help:
 
 ./analyse -h
+
 ## Release
 
 A precompiled version is available in the `release/` directory.
+chmod +x analyse
+./analyse -opt pattern file
+
 
 ## Performance
 
