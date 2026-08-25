@@ -41,7 +41,9 @@ and uses less than 1.5 MB of RAM.
 10 GB benchmark:
 
 -l : 39.30 s  | ~254 MB/s | ~1.5 MB RAM
+
 -o : 67.80 s  | ~147 MB/s | ~1.5 MB RAM
+
 -s : 91.37 s  | ~109 MB/s | ~1.4 MB RAM
 
 ## About
