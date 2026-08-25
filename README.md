@@ -19,7 +19,9 @@ The program supports three main options:
 ./analyse -l <word> <file>
 
 -s : Search for the word and display matching lines.
+
 -o : Count the occurrences of the word.
+
 -l : Count the lines containing the word.
 
 Options can be combined:
@@ -33,7 +35,9 @@ For help:
 ## Release
 
 A precompiled version is available in the `release/` directory.
+
 chmod +x analyse
+
 ./analyse -opt pattern file
 
 
